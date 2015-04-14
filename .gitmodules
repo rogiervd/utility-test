@@ -1,0 +1,6 @@
+[submodule "utility"]
+	path = utility
+	url = ../utility
+[submodule "meta"]
+	path = meta
+	url = ../meta
